@@ -38,6 +38,8 @@ while i<banyak_jenis:
     i= i + 1
     
 #OUTPUT PROCESS
+print("                                           ")
+print("                                           ")
 print("         GEROBAK FRIED CHICKEN   ")
 print("===========================================")
 print("No   Jenis     Harga        Banyak    Jumlah")
@@ -66,17 +68,3 @@ if uang >= total_bayar:
 elif uang <= total_bayar:
     jumlah_uang= uang - total_bayar
     print("Uang anda kurang sebesar Rp. ",jumlah_uang)
-
-    
-
-
-
-
-
-
-
-
-     
-         
-
-    
